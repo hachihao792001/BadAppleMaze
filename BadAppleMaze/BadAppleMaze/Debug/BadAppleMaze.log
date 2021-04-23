@@ -1,0 +1,3 @@
+﻿  Source.cpp
+E:\Github\BadAppleMaze\BadAppleMaze\BadAppleMaze\Source.cpp(17,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  BadAppleMaze.vcxproj -> E:\Github\BadAppleMaze\BadAppleMaze\Debug\BadAppleMaze.exe
